@@ -1,0 +1,7 @@
+Begin  
+WRITE “Please enter two numbers to add” 
+READ num1 
+READ num2 
+Sum = num1+num2 
+WRITE Sum 
+End 
